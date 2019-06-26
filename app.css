@@ -1,0 +1,19 @@
+body {
+    width: 80%;
+}
+
+/*.container {*/
+/*    margin-top: 20px;*/
+/*}*/
+
+.huge.header {
+    
+    text-align: left;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.deleteForm {
+    display: inline;
+}
+    
